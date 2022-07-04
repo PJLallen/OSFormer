@@ -6,6 +6,8 @@ Jialun Pei, Tianyang Cheng, [Dengping Fan](https://dengpingfan.github.io/), He T
 
 Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers"
 
+![OSFormer](/docs/OSFormer.pdf)
+
 ## Environment preparation
 
 Run the commands in current dir. The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
@@ -47,13 +49,13 @@ NC4K_JSON = os.path.join(NC4K_ROOT, 'nc4k_test.json')
 
 ## Pre-trained models
 
-| Model         | Config                 | COD10K-test AP | NC4K-test AP | 
-|:--------------|:-----------------------|:---------------|:-------------|
-| RT            | configs/CIS_RT.yaml    | 36.0           | 41.4         |      
-| R50           | configs/CIS_R50.yaml   | 41.0           | 42.5         |      
-| R101          | configs/CIS_R101.yaml  | 42.0           | 44.4         |      
-| PVTv2B2Li     | configs/CIS_PVTv2B2Li  | 47.2           | 50.5         |      
-| SWIN-T        | configs/CIS_SWINT.yaml | 47.7           | 50.2         |      
+| Model         | Config                                           | COD10K-test AP | NC4K-test AP | Weights
+|:--------------|:------------------------------------------------ |:---------------|:-------------| :------------
+| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         | Baidu / Google      
+| R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         | Baidu / Google      
+| R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         | Baidu / Google      
+| PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         | Baidu / Google      
+| SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         | Baidu / Google      
 
 ## Usage 
 
@@ -98,3 +100,10 @@ This work is based on:
 - [Deformable DETR](https://github.com/fundamentalvision/Deformable-DETR)
 
 We also get help from [mmdetection](https://github.com/open-mmlab/mmdetection). Thanks them for their great work!
+
+## Citation
+
+If this helps you, please cite this work:
+
+```
+```
