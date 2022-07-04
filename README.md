@@ -1,4 +1,8 @@
-# OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers
+# OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers (ECCV 2022)
+
+Jialun Pei, Tianyang Cheng, [Dengping Fan](https://dengpingfan.github.io/), He Tang, Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
+
+*The first two authors have equal contribution to this work*
 
 Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers"
 

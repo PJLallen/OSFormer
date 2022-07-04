@@ -1,4 +1,4 @@
-
+# Taken from https://github.com/facebookresearch/detr
 
 """
 Various positional encodings for the transformer.
