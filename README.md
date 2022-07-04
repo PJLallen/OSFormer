@@ -55,7 +55,7 @@ Weights: Baidu / [Google](https://drive.google.com/drive/folders/1pl9iM1NAfN5N6V
 
 | Model         | Config                                           | COD10K-test AP | NC4K-test AP |
 |:--------------|:------------------------------------------------ |:---------------|:-------------|
-| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         |
+| R50-550       | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         |
 | R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         |
 | R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         |
 | PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         |
