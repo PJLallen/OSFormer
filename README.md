@@ -8,6 +8,10 @@ Jialun Pei, Tianyang Cheng, [Deng-Ping Fan](https://dengpingfan.github.io/), He 
 
 *The first two authors have equal contribution to this work*
 
+|            *Image 1*             |             *Image 2*             |             *Image 3*             |             *Image 4*             |
+| :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| <img src="docs/1.gif"  height=170 width=170> | <img src="docs/2.gif" width=170 height=170> | <img src="docs/3.gif" width=170 height=170> |  <img src="docs/4.gif" width=170 height=170> |
+
 ## Environment preparation
 
 The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
