@@ -1,0 +1,46 @@
+MODEL:
+  META_ARCHITECTURE: "OSFormer"
+  MASK_ON: True
+  BACKBONE:
+    NAME: "build_resnet_backbone"
+  RESNETS:
+    OUT_FEATURES: [ "res2", "res3", "res4", "res5" ]
+  BASIS_MODULE:
+    NUM_CLASSES: 1
+  OSFormer:
+    NUM_CLASSES: 1
+    INSTANCE_IN_FEATURES: [ "res3", "res4", "res5" ]
+    MASK_IN_FEATURES: [ "res2", "trans3", "trans4", "trans5" ]
+    FEAT_INSTANCE_STRIDES: [ 8, 16, 32 ]
+    FEAT_SCALE_RANGES: ((1, 192), (96, 384), (192, 2048))
+    NUM_GRIDS: [ 36, 24, 16 ]
+    INS_FUSION: 'camin'
+    DCIN_NORM: False
+    NOFPN: True
+    SEM_LOSS: True
+    C2F_MASK: True
+    ENC_LAYERS: 6
+    DEC_LAYERS: 3
+    LOSS:
+      SEM_WEIGHT: 1.0
+      SEM_TYPE: 'dice'
+  SEM_SEG_HEAD:
+    NUM_CLASSES: 1
+DATASETS:
+  TRAIN: ("my_data_train_coco_cod_style",)
+  TEST: ("my_data_test_coco_cod_style", "my_data_test_coco_nc4k_style")
+SOLVER:
+  BASE_LR: 0.00025
+  WEIGHT_DECAY: 0.0001
+  STEPS: (60000, 80000)
+  MAX_ITER: 90000
+  IMS_PER_BATCH: 2
+  WARMUP_FACTOR: 0.01
+  WARMUP_ITERS: 1000
+INPUT:
+  MIN_SIZE_TRAIN: (640, 672, 704, 736, 768, 800)
+  MIN_SIZE_TEST: 800
+  MASK_FORMAT: "bitmask"
+VERSION: 2
+
+

@@ -1,0 +1,8 @@
+_BASE_: "./CIS_R50.yaml"
+INPUT:
+  MIN_SIZE_TEST: 550
+  MIN_SIZE_TRAIN: (550,)
+MODEL:
+  OSFormer:
+    ENC_LAYERS: 3
+    DEC_LAYERS: 3

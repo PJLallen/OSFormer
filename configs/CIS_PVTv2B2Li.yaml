@@ -1,0 +1,7 @@
+_BASE_: "Base-CIS.yaml"
+MODEL:
+  WEIGHTS: ""  # download weights from https://github.com/whai362/PVT
+  BACKBONE:
+    NAME: "build_pvt_v2_b2_li"
+  PVTV2:
+    OUT_FEATURES: [ "res2", "res3", "res4", "res5" ]

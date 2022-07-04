@@ -1,0 +1,15 @@
+setuptools==59.5.0
+termcolor>=1.1
+Pillow>=6.0
+yacs>=0.1.6
+tabulate
+cloudpickle
+matplotlib
+tqdm>4.29.0
+tensorboard
+python-Levenshtein
+Polygon3
+shapely
+kornia
+opencv-python
+timm
