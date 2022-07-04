@@ -4,7 +4,7 @@ Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentatio
 
 ![OSFormer](docs/OSFormer.png)
 
-[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), Tianyang Cheng, [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
+[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Tianyang Cheng](https://github.com/Patrickctyyx), [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
 *The first two authors have equal contribution to this work*
 
