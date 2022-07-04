@@ -17,7 +17,7 @@ Jialun Pei, Tianyang Cheng, [Deng-Ping Fan](https://dengpingfan.github.io/), He 
 The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
 
 ```shell
-git clone https://github.com/Patrickctyyx/OSFormer.git
+git clone https://github.com/PJLallen/OSFormer.git
 cd OSFormer
 conda create -n osformer python=3.8 -y
 conda activate osformer
