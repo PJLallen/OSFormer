@@ -49,15 +49,17 @@ NC4K_JSON = os.path.join(NC4K_ROOT, 'nc4k_test.json')
 
 ## Pre-trained models
 
-| Model         | Config                                           | COD10K-test AP | NC4K-test AP | Weights
-|:--------------|:------------------------------------------------ |:---------------|:-------------| :------------
-| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
-| R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
-| R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
-| PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
-| SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
+Weights: Baidu / [Google](https://drive.google.com/drive/folders/1pl9iM1NAfN5N6Voc03oPmlbKJ-YNldMF?usp=sharing) / [Quark](https://pan.quark.cn/s/6676592ff08b)
 
-## Usage 
+| Model         | Config                                           | COD10K-test AP | NC4K-test AP |
+|:--------------|:------------------------------------------------ |:---------------|:-------------|
+| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         |
+| R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         |
+| R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         |
+| PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         |
+| SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         |
+
+## Usage
 
 ### Train
 
