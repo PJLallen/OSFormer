@@ -1,12 +1,12 @@
 # OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers (ECCV 2022)
 
+Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers"
+
+![OSFormer](docs/OSFormer.png)
+
 Jialun Pei, Tianyang Cheng, [Dengping Fan](https://dengpingfan.github.io/), He Tang, Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
 *The first two authors have equal contribution to this work*
-
-Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers"
-
-![OSFormer](/docs/OSFormer.pdf)
 
 ## Environment preparation
 
@@ -51,11 +51,11 @@ NC4K_JSON = os.path.join(NC4K_ROOT, 'nc4k_test.json')
 
 | Model         | Config                                           | COD10K-test AP | NC4K-test AP | Weights
 |:--------------|:------------------------------------------------ |:---------------|:-------------| :------------
-| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         | Baidu / Google      
-| R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         | Baidu / Google      
-| R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         | Baidu / Google      
-| PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         | Baidu / Google      
-| SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         | Baidu / Google      
+| RT            | [configs/CIS_RT.yaml](configs/CIS_RT.yaml)       | 36.0           | 41.4         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
+| R50           | [configs/CIS_R50.yaml](configs/CIS_R50.yaml)     | 41.0           | 42.5         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
+| R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
+| PVTv2B2Li     | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
+| SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         | Baidu / Google / [Quark](https://pan.quark.cn/s/6676592ff08b)
 
 ## Usage 
 
