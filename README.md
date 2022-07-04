@@ -4,15 +4,17 @@ Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentatio
 
 ![OSFormer](docs/OSFormer.png)
 
-Jialun Pei, Tianyang Cheng, [Dengping Fan](https://dengpingfan.github.io/), He Tang, Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
+Jialun Pei, Tianyang Cheng, [Deng-Ping Fan](https://dengpingfan.github.io/), He Tang, Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
 *The first two authors have equal contribution to this work*
 
 ## Environment preparation
 
-Run the commands in current dir. The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
+The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
 
 ```shell
+git clone https://github.com/Patrickctyyx/OSFormer.git
+cd OSFormer
 conda create -n osformer python=3.8 -y
 conda activate osformer
 conda install pytorch==1.9.0 torchvision cudatoolkit=11.1 -c pytorch -c nvidia -y
