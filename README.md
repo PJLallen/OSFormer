@@ -4,13 +4,13 @@ Official Implementation of "OSFormer: One-Stage Camouflaged Instance Segmentatio
 
 ![OSFormer](docs/OSFormer.png)
 
-[Jialun Pei](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Tianyang Cheng](https://github.com/Patrickctyyx), [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
+[Jialun Pei*](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Tianyang Cheng*](https://github.com/Patrickctyyx), [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
-*The first two authors have equal contribution to this work*
+**Contact:*dengpfan@gmail.com
 
-|            *Image 1*             |             *Image 2*             |             *Image 3*             |             *Image 4*             |
+|            *Sample 1*             |             *Sample 2*             |             *Sample 3*             |             *Sample 4*             |
 | :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| <img src="docs/1.gif"  height=170 width=170> | <img src="docs/2.gif" width=170 height=170> | <img src="docs/3.gif" width=170 height=170> |  <img src="docs/4.gif" width=170 height=170> |
+| <img src="docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=170 width=170> | <img src="docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" width=170 height=170> | <img src="docs/488.gif" width=170 height=170> |  <img src="docs/4126.gif" width=170 height=170> |
 
 ## Environment preparation
 
