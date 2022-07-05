@@ -69,9 +69,9 @@ Model weights: [Baidu](https://pan.baidu.com/s/1Ao3Myqa6xiA9ymAkZgZOeQ) (passwor
 
 The visual results are achieved by our OSFormer with ResNet-50 trained on the COD10K training set.
 
--Results on the COD10K test set: [Baidu](https://pan.baidu.com/s/16xH7coaGoOGiB5x1AXgy5w) (password:hust) /
+- Results on the COD10K test set: [Baidu](https://pan.baidu.com/s/16xH7coaGoOGiB5x1AXgy5w) (password:hust) /
 [Google](https://drive.google.com/open?id=16XMw6NaiCQdHG1By-1a7s8SmnyEqlmYD)
--Results on the NC4K test set: [Baidu](https://pan.baidu.com/s/15Y-7fNcHRhu38Vjybx1HMg) (password:hust) /
+- Results on the NC4K test set: [Baidu](https://pan.baidu.com/s/15Y-7fNcHRhu38Vjybx1HMg) (password:hust) /
 [Google](https://drive.google.com/file/d/1cRcwbD3Y3fMO3n7eTtA6VGZWKCWwJSU0/view?usp=sharing)
 
 ## Usage
