@@ -55,7 +55,7 @@ NC4K_JSON = os.path.join(NC4K_ROOT, 'nc4k_test.json')
 
 ## Pre-trained models
 
-Weights: [Baidu](https://pan.baidu.com/s/1Ao3Myqa6xiA9ymAkZgZOeQ) (password:l6vn) / [Google](https://drive.google.com/drive/folders/1pl9iM1NAfN5N6Voc03oPmlbKJ-YNldMF?usp=sharing) / [Quark](https://pan.quark.cn/s/6676592ff08b)
+Model weights: [Baidu](https://pan.baidu.com/s/1Ao3Myqa6xiA9ymAkZgZOeQ) (password:l6vn) / [Google](https://drive.google.com/drive/folders/1pl9iM1NAfN5N6Voc03oPmlbKJ-YNldMF?usp=sharing) / [Quark](https://pan.quark.cn/s/6676592ff08b)
 
 | Model         | Config                                           | COD10K-test AP | NC4K-test AP |
 |:--------------|:------------------------------------------------ |:---------------|:-------------|
@@ -64,6 +64,14 @@ Weights: [Baidu](https://pan.baidu.com/s/1Ao3Myqa6xiA9ymAkZgZOeQ) (password:l6vn
 | R101          | [configs/CIS_R101.yaml](configs/CIS_R101.yaml)   | 42.0           | 44.4         |
 | PVTv2-B2-Li   | [configs/CIS_PVTv2B2Li](configs/CIS_PVTv2B2Li)   | 47.2           | 50.5         |
 | SWIN-T        | [configs/CIS_SWINT.yaml](configs/CIS_SWINT.yaml) | 47.7           | 50.2         |
+
+## Visualization results
+
+The visual results are achieved by our OSFormer with ResNet-50 trained on the COD10K training set.
+Results on the COD10K test set: [Baidu](https://pan.baidu.com/s/16xH7coaGoOGiB5x1AXgy5w) (password:hust) /
+[Google](https://drive.google.com/open?id=16XMw6NaiCQdHG1By-1a7s8SmnyEqlmYD)
+Results on the NC4K test set: [Baidu](https://pan.baidu.com/s/15Y-7fNcHRhu38Vjybx1HMg) (password:hust) /
+[Google](https://drive.google.com/file/d/1cRcwbD3Y3fMO3n7eTtA6VGZWKCWwJSU0/view?usp=sharing)
 
 ## Usage
 
