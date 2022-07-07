@@ -1,6 +1,6 @@
 # OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers (ECCV 2022)
 
-Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://dengpingfan.github.io/papers/[2022][ECCV]OSFormer.pdf)"
+Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/abs/2207.02255)"
 
 ![OSFormer](docs/OSFormer.png)
 
