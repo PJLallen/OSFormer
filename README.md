@@ -12,10 +12,6 @@ Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentati
 | :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=125 width=170> | <img src="docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" height=125 width=170> | <img src="docs/488.gif" height=125 width=170> |  <img src="docs/4126.gif" height=125 width=170> |
 
-## FAQ
-
-[FAQ](https://github.com/PJLallen/OSFormer/blob/main/docs/faq.md)
-
 ## Environment preparation
 
 The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
@@ -77,6 +73,10 @@ The visual results are achieved by our OSFormer with ResNet-50 trained on the CO
 [Google](https://drive.google.com/open?id=16XMw6NaiCQdHG1By-1a7s8SmnyEqlmYD)
 - Results on the NC4K test set: [Baidu](https://pan.baidu.com/s/15Y-7fNcHRhu38Vjybx1HMg) (password:hust) /
 [Google](https://drive.google.com/file/d/1cRcwbD3Y3fMO3n7eTtA6VGZWKCWwJSU0/view?usp=sharing)
+
+## Frequently asked questions
+
+[FAQ](https://github.com/PJLallen/OSFormer/blob/main/docs/faq.md)
 
 ## Usage
 
