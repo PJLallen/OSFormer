@@ -30,7 +30,7 @@ python setup.py build develop
 
 ### Download the datasets
 
-- [COD10K](https://github.com/DengPingFan/SINet#4-proposed-cod10k-datasets); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
+- COD10K Baidu/Google/[quark](https://github.com/DengPingFan/SINet#4-proposed-cod10k-datasets); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
 - [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment); Json files: [Baidu](https://pan.baidu.com/s/1DBPFtAL2iEjefwiqXE_GWA) (password:hust)
 
 ### Register datasets
