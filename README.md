@@ -12,6 +12,10 @@ Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentati
 | :------------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | <img src="docs/COD10K-CAM-3-Flying-53-Bird-3024.gif"  height=125 width=170> | <img src="docs/COD10K-CAM-3-Flying-65-Owl-4620.gif" height=125 width=170> | <img src="docs/488.gif" height=125 width=170> |  <img src="docs/4126.gif" height=125 width=170> |
 
+## FAQ
+
+[FAQ](https://github.com/PJLallen/OSFormer/blob/main/docs/faq.md)
+
 ## Environment preparation
 
 The code is tested on CUDA 11.1 and pytorch 1.9.0, change the versions below to your desired ones.
@@ -30,7 +34,7 @@ python setup.py build develop
 
 ### Download the datasets
 
-- COD10K Baidu/Google/[quark](https://github.com/DengPingFan/SINet#4-proposed-cod10k-datasets); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
+- COD10K Baidu / [Google](https://drive.google.com/file/d/1YGa3v-MiXy-3MMJDkidLXPt0KQwygt-Z/view?usp=sharing) / [Quark](https://pan.quark.cn/s/07ba3258b777); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
 - [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment); Json files: [Baidu](https://pan.baidu.com/s/1DBPFtAL2iEjefwiqXE_GWA) (password:hust)
 
 ### Register datasets
