@@ -30,8 +30,8 @@ python setup.py build develop
 
 ### Download the datasets
 
-- COD10K Baidu / [Google](https://drive.google.com/file/d/1YGa3v-MiXy-3MMJDkidLXPt0KQwygt-Z/view?usp=sharing) / [Quark](https://pan.quark.cn/s/07ba3258b777); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
-- [NC4K](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment); Json files: [Baidu](https://pan.baidu.com/s/1DBPFtAL2iEjefwiqXE_GWA) (password:hust)
+- COD10K: [Baidu](https://pan.baidu.com/s/1IPcPjdg1EJ-h9HPoU42nHA) (password:hust) / [Google](https://drive.google.com/file/d/1YGa3v-MiXy-3MMJDkidLXPt0KQwygt-Z/view?usp=sharing) / [Quark](https://pan.quark.cn/s/07ba3258b777); Json files: [Baidu](https://pan.baidu.com/s/1kRawj-hzBDycCkZZfQjFhg) (password:hust)
+- NC4K: [Baidu](https://pan.baidu.com/s/1li4INx4klQ_j8ftODyw2Zg) (password:hust) / [Google](https://drive.google.com/file/d/1eK_oi-N4Rmo6IIxUNbYHBiNWuDDLGr_k/view?usp=sharing); Json files: [Baidu](https://pan.baidu.com/s/1DBPFtAL2iEjefwiqXE_GWA) (password:hust)
 
 ### Register datasets
 
