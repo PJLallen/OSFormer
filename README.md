@@ -124,7 +124,7 @@ We also get help from [mmdetection](https://github.com/open-mmlab/mmdetection). 
 
 ## Citation
 
-If this helps you, please cite this work:
+If this helps you, please cite this work (SINet-V3):
 
 ```
 @inproceedings{pei2022osformer,
@@ -134,4 +134,23 @@ If this helps you, please cite this work:
   year={2022},
   organization={Springer}
 }
+```
+
+For the SINet-V1, and SINet-V2 please cite the following works:
+
+```
+    @article{fan2021concealed,
+      title={Concealed Object Detection},
+      author={Fan, Deng-Ping and Ji, Ge-Peng and Cheng, Ming-Ming and Shao, Ling},
+      journal={IEEE TPAMI},
+      year={2022}
+    }
+    
+    @inproceedings{fan2020camouflaged,
+      title={Camouflaged object detection},
+      author={Fan, Deng-Ping and Ji, Ge-Peng and Sun, Guolei and Cheng, Ming-Ming and Shen, Jianbing and Shao, Ling},
+      booktitle={IEEE CVPR},
+      pages={2777--2787},
+      year={2020}
+    }
 ```
