@@ -13,3 +13,7 @@ We have uploded the 3,040 training and 2,026 testing COD10K dataset Baidu/[Googl
 ## Paper link
 
 Arxiv: https://arxiv.org/abs/2207.02255
+
+## Initial weights for PVT and Swin
+
+To fit detectron2 framework, we add prefix to the key of pth. See https://github.com/PJLallen/OSFormer/issues/4 for details.
