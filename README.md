@@ -6,7 +6,7 @@ SINet-V3 Official Implementation of "[OSFormer: One-Stage Camouflaged Instance S
 
 [Jialun Pei*](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Tianyang Cheng*](https://github.com/Patrickctyyx), [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
-[[Paper]](https://arxiv.org/abs/2207.02255); [[Chinese Version]](https://dengpingfan.github.io/papers/[2022][ECCV]OSFormer_Chinese.pdf); [[Project Page]](https://blog.patrickcty.cc/OSFormer-Homepage/)
+[[Paper]](https://arxiv.org/abs/2207.02255); [[Chinese Version]](https://dengpingfan.github.io/papers/[2022][ECCV]OSFormer_Chinese.pdf); [[Official Version]](https://link.springer.com/content/pdf/10.1007/978-3-031-19797-0_2.pdf); [[Project Page]](https://blog.patrickcty.cc/OSFormer-Homepage/)
 
 **Contact:** dengpfan@gmail.com, peijl@hust.edu.cn
 
