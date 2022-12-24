@@ -91,7 +91,7 @@ python tools/train_net.py --config-file configs/CIS_R50.yaml --num-gpus 1 \
 
 Please replace `{PATH_TO_OUTPUT_DIR}` to your own output dir
 
-### Eval
+### Inference
 
 ```shell
 python tools/train_net.py --config-file configs/CIS_R50.yaml --eval-only \
@@ -100,7 +100,7 @@ python tools/train_net.py --config-file configs/CIS_R50.yaml --eval-only \
 
 Please replace `{PATH_TO_PRE_TRAINED_WEIGHTS}` to the pre-trained weights
 
-### Inference
+### Eval
 
 ```shell
 python demo/demo.py --config-file configs/CIS_R50.yaml \
