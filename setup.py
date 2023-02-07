@@ -120,7 +120,7 @@ setup(
         "python-Levenshtein",
         "Polygon3",
         "shapely",
-        "kornia",
+        "kornia==0.6.8",
         "opencv-python",
         "timm"
     ],
