@@ -27,6 +27,6 @@ def img2gif(img_og, img_pred, out_name):
 
 if __name__ == '__main__':
     img2gif(
-        '/Users/patrick/Documents/研究生资料/lab/projects/DANet/Pysal/data/DUTS-TE/DUTS-TE-Image/ILSVRC2012_test_00000003.jpg',
-        '/Users/patrick/Documents/研究生资料/lab/projects/DANet/Pysal/data/DUTS-TE/DUTS-TE-Mask/ILSVRC2012_test_00000003.png',
-        '/Users/patrick/Desktop/output.gif')
+        '../test_00000003.jpg',
+        '../test_00000003.png',
+        '../output.gif')
