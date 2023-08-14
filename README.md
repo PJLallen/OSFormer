@@ -2,7 +2,7 @@
 
 ![OSFormer](docs/OSFormer.png)
 
-SINet-V3 Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/abs/2207.02255)"
+Official Implementation of "[OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/abs/2207.02255)"
 
 [Jialun Pei*](https://scholar.google.com/citations?user=1lPivLsAAAAJ&hl=en), [Tianyang Cheng*](https://github.com/Patrickctyyx), [Deng-Ping Fan](https://dengpingfan.github.io/), [He Tang](https://scholar.google.com/citations?hl=en&user=70XLFUsAAAAJ), Chuanbo Chen, and [Luc Van Gool](https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html)
 
